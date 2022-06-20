@@ -1,2 +1,2 @@
 # syntex-backend
-Backend for syntex project found here: https://github.com/JoelBeicher/syntex
+Backend for Backend for [syntex](https://github.com/JoelBeicher/syntex) project.
